@@ -7,3 +7,5 @@ PJM_NGBOOST: This is the notebook for PJM dataset using NGBoost model.
 NP_NGBoot: This is the notebook for NordPool dataset using NGBoost
 FR_NGBoost: This is the notebook for French dataset using NGBoost
 Evaluation: This is the notebook for evaluating the models for different datasets. 
+
+Report and the documention are provided.
